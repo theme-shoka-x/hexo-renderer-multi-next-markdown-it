@@ -1,9 +1,9 @@
 {
-  "name": "hexo-renderer-multi-markdown-it",
+  "name": "hexo-renderer-multi-next-markdown-it",
   "version": "0.1.5",
   "description": "A Markdown parser for Hexo and auto Minify HTML, CSS, JS.",
   "main": "index.js",
-  "repository": "https://github.com/amehime/hexo-renderer-multi-markdown-it.git",
+  "repository": "https://github.com/zkz098/hexo-renderer-multi-markdown-it",
   "keywords": [
     "hexo",
     "renderer",
@@ -18,10 +18,10 @@
     "index.js",
     "lib/"
   ],
-  "author": "Ruri Shimotsuki",
+  "author": "Chou Kaitaku",
   "license": "MIT",
-  "bugs": "https://github.com/amehime/hexo-renderer-multi-markdown-it/issues",
-  "homepage": "https://github.com/amehime/hexo-renderer-multi-markdown-it",
+  "bugs": "https://github.com/zkz098/hexo-renderer-multi-markdown-it/issues",
+  "homepage": "https://github.com/zkz098/hexo-renderer-multi-markdown-it",
   "dependencies": {
     "bluebird": "^3.3.5",
     "clean-css": ">2.0.0",
@@ -48,10 +48,10 @@
     "markdown-it-toc-and-anchor": "^4.2.0",
     "minimatch": "^3.0.0",
     "prismjs": "^1.21.0",
-    "puppeteer": "^5.0.0",
-    "uglify-js": "~2.6.2"
+    "puppeteer-cn": "0.1.8",
+    "uglify-js": "^3.15.5"
   },
   "engines": {
-    "node": ">=8.6.0"
+    "node": ">=14.0.0"
   }
 }
