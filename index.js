@@ -68,9 +68,9 @@ if (hexo.config.minify) {
     });
 
 
-    var filter = require('./lib/filter');
+    const filter = require('./lib/filter');
 
-	hexo.extend.filter.register('after_render:html', filter.logic_html);
+    hexo.extend.filter.register('after_render:html', filter.logic_html);
     hexo.extend.filter.register('after_render:css', filter.logic_css);
     hexo.extend.filter.register('after_render:js', filter.logic_js);
 
