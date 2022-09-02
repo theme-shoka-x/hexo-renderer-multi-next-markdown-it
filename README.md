@@ -24,4 +24,4 @@ yarn add hexo-renderer-multi-next-markdown-it --save
 
 ## 此渲染器可以在shoka上使用吗?
 可以,已经过测试 \
-由于shoka主题及其工具链已经长时间未更新,本渲染器可能会大量引入破坏性更改
+如果出现`deasync`的编译问题,请前往github反馈
