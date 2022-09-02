@@ -23,7 +23,6 @@
   "bugs": "https://github.com/zkz098/hexo-renderer-multi-markdown-it/issues",
   "homepage": "https://github.com/zkz098/hexo-renderer-multi-markdown-it",
   "dependencies": {
-    "bluebird": "^3.3.5",
     "clean-css": ">5.0.0",
     "deasync-promise": "^1.0.1",
     "frappe-charts": "^1.5.0",
