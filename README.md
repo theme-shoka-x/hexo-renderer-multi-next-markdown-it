@@ -25,3 +25,6 @@ yarn add hexo-renderer-multi-next-markdown-it --save
 ## 此渲染器可以在shoka上使用吗?
 可以,已经过测试 \
 如果出现`deasync`的编译问题,请前往github反馈
+
+## 运行有问题/我有一个建议
+前往本项目github主页反馈即可
