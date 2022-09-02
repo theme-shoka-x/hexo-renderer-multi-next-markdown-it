@@ -61,7 +61,9 @@ if (hexo.config.minify) {
         logger: true,
         stamp: true,
         output: {},
-        compress: {},
+        compress: {
+            ecma: 2018
+        },
         exclude: ['*.min.js']
     }, hexo.config.minify.js, {
             fromString: true
