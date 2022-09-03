@@ -6,7 +6,7 @@
 - 使用puppeteer-cn
 - 可以渲染与压缩包含ES6的代码
 - 更新了十几个依赖项
-- 提升markdown-it套餐版本(计划)
+- 提升markdown-it套餐版本
 
 ## 如何使用?
 卸载hexo的默认渲染器
