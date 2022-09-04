@@ -28,3 +28,6 @@ yarn add hexo-renderer-multi-next-markdown-it --save
 
 ## 运行有问题/我有一个建议
 前往本项目github主页反馈即可
+
+## 开源项目
+基于[hexo-renderer-multi-markdown-it](https://github.com/amehime/hexo-renderer-multi-markdown-it) 制作
