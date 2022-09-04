@@ -27,7 +27,7 @@ jobs:
         with:
           node-version: 16
           registry-url: https://registry.npmjs.org/
-      - run: npm install yarn -g
+      - run: npm install -g yarn
       - run: yarn install
       - run: yarn publish
         env:
