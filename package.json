@@ -3,7 +3,7 @@
   "version": "0.0.6",
   "description": "A Markdown parser for Hexo and auto Minify HTML, CSS, JS.",
   "main": "index.js",
-  "repository": "https://github.com/zkz098/hexo-renderer-multi-markdown-it",
+  "repository": "https://github.com/zkz098/hexo-renderer-multi-next-markdown-it",
   "keywords": [
     "hexo",
     "renderer",
@@ -20,8 +20,8 @@
   ],
   "author": "Chou Kaitaku",
   "license": "MIT",
-  "bugs": "https://github.com/zkz098/hexo-renderer-multi-markdown-it/issues",
-  "homepage": "https://github.com/zkz098/hexo-renderer-multi-markdown-it",
+  "bugs": "https://github.com/zkz098/hexo-renderer-multi-next-markdown-it/issues",
+  "homepage": "https://github.com/zkz098/hexo-renderer-multi-next-markdown-it",
   "dependencies": {
     "clean-css": ">=5.3.1",
     "deasync-promise": "^1.0.1",
