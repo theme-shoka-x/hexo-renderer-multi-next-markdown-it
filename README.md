@@ -1,4 +1,6 @@
 # hexo-renderer-multi-next-markdown-it
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzkz098%2Fhexo-renderer-multi-next-markdown-it.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzkz098%2Fhexo-renderer-multi-next-markdown-it?ref=badge_shield)
+
 ![](	https://img.shields.io/github/license/zkz098/hexo-renderer-multi-markdown-it) ![](https://badgen.net/npm/v/hexo-renderer-multi-next-markdown-it)
 ## hexo-renderer-multi-next-markdown-it做了什么工作?
 从这个长的离谱的标题就能看出来,这个项目基于`hexo-renderer-multi-markdown-it`(下文简称"它") \
@@ -31,3 +33,7 @@ yarn add hexo-renderer-multi-next-markdown-it --save
 
 ## 开源项目
 基于[hexo-renderer-multi-markdown-it](https://github.com/amehime/hexo-renderer-multi-markdown-it) 制作
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzkz098%2Fhexo-renderer-multi-next-markdown-it.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzkz098%2Fhexo-renderer-multi-next-markdown-it?ref=badge_large)
