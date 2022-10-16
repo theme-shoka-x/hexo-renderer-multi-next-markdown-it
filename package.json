@@ -1,6 +1,6 @@
 {
   "name": "hexo-renderer-multi-next-markdown-it",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A Markdown parser for Hexo and auto Minify HTML, CSS, JS.",
   "main": "index.js",
   "repository": "https://github.com/zkz098/hexo-renderer-multi-next-markdown-it",
@@ -46,7 +46,6 @@
     "markdown-it-task-checkbox": "^1.0.6",
     "markdown-it-toc-and-anchor": "^4.2.0",
     "minimatch": "^5.1.0",
-    "prismjs": "^1.29.0",
     "puppeteer-cn": "^0.1.8",
     "terser": "^5.15.1",
     "uglify-js": "^3.17.0"
