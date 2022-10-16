@@ -9,6 +9,7 @@
 - 可以渲染与压缩包含ES6的代码
 - 更新了十几个依赖项
 - 提升markdown-it套餐版本
+- 使用terser压缩js
 
 ## 如何使用?
 卸载hexo的默认渲染器
@@ -19,9 +20,9 @@ yarn remove hexo-renderer-marked
 ```
 安装此渲染器
 ```shell
-npm i hexo-renderer-multi-next-markdown-it --save
+npm i hexo-renderer-multi-next-markdown-it@next --save
 # 或
-yarn add hexo-renderer-multi-next-markdown-it --save
+yarn add hexo-renderer-multi-next-markdown-it@next --save
 ```
 
 ## 此渲染器可以在shoka上使用吗?

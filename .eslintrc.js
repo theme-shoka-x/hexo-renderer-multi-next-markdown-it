@@ -12,7 +12,6 @@ module.exports = {
     ecmaVersion: 12
   },
   rules: {
-    camelcase: 'off',
-    'prefer-const': 'off'
+    camelcase: 'off'
   }
 }
