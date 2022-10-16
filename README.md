@@ -20,9 +20,9 @@ yarn remove hexo-renderer-marked
 ```
 安装此渲染器
 ```shell
-npm i hexo-renderer-multi-next-markdown-it@next --save
+npm i hexo-renderer-multi-next-markdown-it --save
 # 或
-yarn add hexo-renderer-multi-next-markdown-it@next --save
+yarn add hexo-renderer-multi-next-markdown-it --save
 ```
 
 ## 此渲染器可以在shoka上使用吗?
