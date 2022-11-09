@@ -1377,6 +1377,7 @@ __metadata:
     markdown-it-task-checkbox: ^1.0.6
     markdown-it-toc-and-anchor: ^4.2.0
     minimatch: ^5.1.0
+    prismjs: ^1.29.0
     puppeteer-cn: ^0.1.8
     terser: ^5.15.1
   languageName: unknown
@@ -2363,6 +2364,13 @@ __metadata:
   version: 1.2.1
   resolution: "prelude-ls@npm:1.2.1"
   checksum: cd192ec0d0a8e4c6da3bb80e4f62afe336df3f76271ac6deb0e6a36187133b6073a19e9727a1ff108cd8b9982e4768850d413baa71214dd80c7979617dca827a
+  languageName: node
+  linkType: hard
+
+"prismjs@npm:^1.29.0":
+  version: 1.29.0
+  resolution: "prismjs@npm:1.29.0"
+  checksum: 007a8869d4456ff8049dc59404e32d5666a07d99c3b0e30a18bd3b7676dfa07d1daae9d0f407f20983865fd8da56de91d09cb08e6aa61f5bc420a27c0beeaf93
   languageName: node
   linkType: hard
 
