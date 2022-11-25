@@ -26,6 +26,7 @@
     "clean-css": ">=5.3.1",
     "deasync-promise": "^1.0.1",
     "frappe-charts": "^1.6.2",
+    "hexo-util": "^2.7.0",
     "html-minifier": "^4.0.0",
     "katex": "^0.16.2",
     "markdown-it": "^13.0.1",
