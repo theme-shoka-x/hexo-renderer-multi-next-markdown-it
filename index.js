@@ -19,6 +19,8 @@ hexo.config.markdown.render = Object.assign({
 
 const renderer = require('./lib/renderer')
 
+renderer.disableNunjucks = true
+
 hexo.extend.renderer.register('md', 'html', renderer, true)
 hexo.extend.renderer.register('markdown', 'html', renderer, true)
 hexo.extend.renderer.register('mkd', 'html', renderer, true)
