@@ -5,7 +5,6 @@
 ## hexo-renderer-multi-next-markdown-it做了什么工作?
 从这个长的离谱的标题就能看出来,这个项目基于`hexo-renderer-multi-markdown-it`(下文简称"它") \
 这个渲染器的用途也和它一样,而关键字则是**next**,截止目前为止,此分支(计划)实现了以下功能:
-- 使用puppeteer-cn
 - 可以渲染与压缩包含ES6的代码
 - 更新了十几个依赖项
 - 提升markdown-it套餐版本
